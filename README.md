@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakodrake
 - 👀 I’m interested in computer science & math
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python @ js
 - 📫 How to reach me: @drakevalo on twitter!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am a 3rd year in hs
